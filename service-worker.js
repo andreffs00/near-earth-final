@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/near-earth-final/precache-manifest.b1ba04088125b256595d2bc0ae6cc9be.js"
+  "/near-earth-final/precache-manifest.fb8a850fb0275a103285220e5cfcf6f8.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/near-earth-final/static/css/main.fbbe192a.chunk.css",
-    "main.js": "/near-earth-final/static/js/main.b28eb453.chunk.js",
-    "main.js.map": "/near-earth-final/static/js/main.b28eb453.chunk.js.map",
+    "main.js": "/near-earth-final/static/js/main.682a9975.chunk.js",
+    "main.js.map": "/near-earth-final/static/js/main.682a9975.chunk.js.map",
     "runtime-main.js": "/near-earth-final/static/js/runtime-main.50f99416.js",
     "runtime-main.js.map": "/near-earth-final/static/js/runtime-main.50f99416.js.map",
-    "static/js/2.bb70c1bb.chunk.js": "/near-earth-final/static/js/2.bb70c1bb.chunk.js",
-    "static/js/2.bb70c1bb.chunk.js.map": "/near-earth-final/static/js/2.bb70c1bb.chunk.js.map",
+    "static/js/2.9282e7cc.chunk.js": "/near-earth-final/static/js/2.9282e7cc.chunk.js",
+    "static/js/2.9282e7cc.chunk.js.map": "/near-earth-final/static/js/2.9282e7cc.chunk.js.map",
     "index.html": "/near-earth-final/index.html",
-    "precache-manifest.b1ba04088125b256595d2bc0ae6cc9be.js": "/near-earth-final/precache-manifest.b1ba04088125b256595d2bc0ae6cc9be.js",
+    "precache-manifest.fb8a850fb0275a103285220e5cfcf6f8.js": "/near-earth-final/precache-manifest.fb8a850fb0275a103285220e5cfcf6f8.js",
     "service-worker.js": "/near-earth-final/service-worker.js",
     "static/css/main.fbbe192a.chunk.css.map": "/near-earth-final/static/css/main.fbbe192a.chunk.css.map",
-    "static/js/2.bb70c1bb.chunk.js.LICENSE.txt": "/near-earth-final/static/js/2.bb70c1bb.chunk.js.LICENSE.txt"
+    "static/js/2.9282e7cc.chunk.js.LICENSE.txt": "/near-earth-final/static/js/2.9282e7cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.50f99416.js",
-    "static/js/2.bb70c1bb.chunk.js",
+    "static/js/2.9282e7cc.chunk.js",
     "static/css/main.fbbe192a.chunk.css",
-    "static/js/main.b28eb453.chunk.js"
+    "static/js/main.682a9975.chunk.js"
   ]
 }
