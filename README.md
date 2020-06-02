@@ -1,3 +1,3 @@
 ## Near Earth App
 
-Asteroids amd comets near Earth today.
+Asteroids and comets near Earth today.
